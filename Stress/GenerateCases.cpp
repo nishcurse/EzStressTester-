@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
+using namespace std;
+using ll = long long int;
 #include "generative.h"
 
-using namespace std;
 // You can use These Generated Functions to generate whatever Types of Case You Want
 // generate_number(l,r) ->l - r | generates numbers in range from [l , r) inclusive
 // generate_array(l,r,n) ->[l - r) -> range of values for the array where n is the size of array
@@ -12,18 +13,12 @@ using namespace std;
 //void generate_alpha_numeric_string(int nl, int nr, int cl, int cr, int size)->can be used to generate alpha-numeric string [nl, nr) numeric range [cl, cr) characters range
 
 int main (int argc, char **argv) {
-  // argv is an array of strings
-  // atoi is a C function for converting a string into an int
+  /*-----> Replace logic for Generating the testcase <-----*/
 
-  srand(time(0)); // srand sets the random seed
-
-  // pass the range of number of testcases you want
-
-  int t = generate_number(1,30);
-  cout << t << "\n";
+  ll t = 1;
   while (t--) {
-    /*
-       generate whatever you wanna generate down here - >
-    */
+    int n = generate_number(3,10);
+    cout << n << " " << generate_number(2,10) << " " << generate_number(1,n) << "\n";
+    generate_array(1, 100, n);
   }
 }
