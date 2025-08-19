@@ -72,13 +72,14 @@ Script-File Interface
 We built this to make stress testing easier for everyone!
 Feedback and contributions are *strongly* welcomed.
 **Team Coding Wiz**
-- [Nish](https://github.com/nish)
-- [gokuu007](https://github.com/gokuu007)
+- [Nish](https://github.com/nishcurse)
+- [gokuu007](https://github.com/GokuUu007)
 
 ***
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
 
 
 
