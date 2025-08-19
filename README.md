@@ -20,7 +20,7 @@
 - [Project Overview](#project-overview)
 - [How to Use](#how-to-use)
 - [generative.h Header Functions](#generativeh-header-functions)
-- [Demo GIF](#demo-gif)
+- [Demo GIF](#demo)
 - [Image Gallery](#image-gallery)
 - [The Team](https://github.com/nishcurse/EzStressTester-/tree/main?tab=readme-ov-file#-the-team)
 
@@ -79,6 +79,7 @@ Feedback and contributions are *strongly* welcomed.
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
 
 
 
