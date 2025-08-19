@@ -54,10 +54,11 @@ Simply use the following functions in your `generateCases.cpp`:
 
 # Demo
 <p align="center">
-  <video width="600" autoplay muted loop>
-    <source src="https://github.com/user-attachments/assets/ca17f7a1-8967-4115-a6ad-4a63ce016a82" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
+  
+
+https://github.com/user-attachments/assets/6f635a52-f5eb-4053-8139-d48d155a759d
+
+
 </p>
 
 # Image Gallery
@@ -78,6 +79,7 @@ Feedback and contributions are *strongly* welcomed.
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
 
 
 
