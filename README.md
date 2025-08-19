@@ -22,7 +22,7 @@
 - [generative.h Header Functions](#generativeh-header-functions)
 - [Demo GIF](#demo-gif)
 - [Image Gallery](#image-gallery)
-- [The Team](#the-team)
+- [The Team](https://github.com/nishcurse/EzStressTester-/tree/main?tab=readme-ov-file#-the-team)
 
 # Project Overview
 **Stress Tester** is a toolkit to help you catch bugs in your C++ solutions by generating random test cases, running both your brute and optimal solutions, and finding discrepancies instantly. Perfect for competitive programmers who want to verify the correctness of their optimized solutions!
@@ -92,4 +92,5 @@ Feedback and contributions are *strongly* welcomed.
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
 
