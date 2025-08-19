@@ -1,4 +1,4 @@
-# 🚀 Stress Tester \& Test Case Generator for C++
+#  Ezstress Tester (c++) 
 <p align="center">
   <a href="https://github.com/nishcurse/EzStressTester-">
     <img src="https://img.shields.io/github/stars/nishcurse/EzStressTester-?style=flat-square" alt="GitHub Stars">
@@ -92,3 +92,4 @@ Feedback and contributions are *strongly* welcomed.
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
