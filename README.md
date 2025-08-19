@@ -52,34 +52,20 @@ Simply use the following functions in your `generateCases.cpp`:
 | `generate_alpha_numeric_string(nl, nr, cl, cr, size)` | Prints an alphanumeric string of `size` with numbers in `[nl, nr)` and chars in `[cl, cr)`. | - |
 | `generate_tree(n)` | Prints a random tree with `n` nodes. | `generate_tree(5);` |
 
-# Demo GIF
+# Demo
 <p align="center">
-  <!-- Place your main demo GIF below -->
-  <img src="https://your.domain/path-to-gif.gif" alt="Demo Animation" width="700" />
-  <br>
-  <i>Add your demonstration GIF here (showing code in action, test case generation, etc.)</i>
+  <video width="600" autoplay muted loop>
+    <source src="https://github.com/user-attachments/assets/ca17f7a1-8967-4115-a6ad-4a63ce016a82" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 # Image Gallery
-Generated Test Cases & Output
-<p align="center"> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/ed52cd78-ee55-4c80-b6cd-5f498cbc4ab3" width="260" height="300" alt="Generate Function" title="Generate Function" /> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/201b6d4b-b832-49e7-89b3-2370ca9c8ff1" width="260" height="300" alt="Output of a Test Case" title="Output of a Test Case" /> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/21ce31e8-fe03-432b-a829-ce4f8554aff4" width="260" height="300" alt="Example Test Case Output" title="Example Test Case Output" /> 
-</p>
 
-Stress Testing Example  
-Running on this Codeforces problem:  
-<p align="center"> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/62d80ddb-5134-4035-9096-10612de99eb6" width="230" height="300" alt="Stress Test Run 1" title="Stress Test Run 1"/> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/44ea9722-d763-4014-a5e0-77ba38cfc85a" width="230" height="300" alt="Stress Test Run 2" title="Stress Test Run 2"/> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/581120eb-b573-4a2c-bd8a-61308d68bb97" width="230" height="300" alt="Stress Test Run 3" title="Stress Test Run 3"/> 
-</p>
-
-Script File Interface  
-<p align="center"> 
-  <img src="https://github.com/Nishcurse/Javascript/assets/114647752/054f64c0-c1e8-4574-9998-d7c6f711d0ef" width="260" height="300" alt="Script File Interface" title="Script File Interface"/> 
-</p>
+Script-File Interface
+<div align="center display: flex;">
+  <img width="1378" height="739" alt="image" src="https://github.com/user-attachments/assets/eeedda1f-7aa2-4a8d-8730-3ce05a010009" />
+</div>
 
 ## 👨💻 The Team
 We built this to make stress testing easier for everyone!
@@ -92,5 +78,6 @@ Feedback and contributions are *strongly* welcomed.
 
 **Thank you for trying the Stress Tester!**  
 *Found a bug or want to suggest a feature? [Open an issue or PR](https://github.com/nishcurse/EzStressTester-/issues) — we appreciate your feedback!*
+
 
 
